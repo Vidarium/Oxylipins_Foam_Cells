@@ -9,5 +9,3 @@ The file Oxylipins_foamCells.R is an R’s muma script published by E. Gaude, F.
 The file Oxylipins_foamCells.R requires the provided database file Oxylipins_foamCells.csv to properly run.  
 
 RStudio and R software used: R i386 3.6.1
-
-© Vidarium, 2020
