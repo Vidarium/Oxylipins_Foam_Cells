@@ -1,4 +1,4 @@
-# Oxylipins_Foam_Cells
+# Oxylipins Foam Cells
 
 This repository includes a code and the database for statistical analyses of oxylipins in the foam cell model for the manuscript:  
 
