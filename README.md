@@ -10,3 +10,4 @@ The file Oxylipins_foamCells.R requires the provided database file Oxylipins_foa
 
 RStudio and R software used: R i386 3.6.1
 
+© Vidarium, 2020
