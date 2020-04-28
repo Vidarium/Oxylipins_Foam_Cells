@@ -1,0 +1,7 @@
+library(muma)
+explore.data(file="Oxylipins_foamCells.csv", scaling="auto", scal=TRUE, normalize=TRUE, imputation=FALSE)
+Plot.pca(pcx=1, pcy=2, scaling="auto", test.outlier=FALSE)
+plsda(scaling="auto")
+Plot.plsda(pcx=1, pcy=2, scaling="auto")
+univariate(file="Oxylipins_foamCells.csv", imputation=TRUE, imput="mean", normalize=TRUE, multi.test=TRUE, plot.volcano=TRUE)
+Plot.pca.pvalues(pcx=1, pcy=2, scaling="auto")
